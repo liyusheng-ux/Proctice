@@ -9,6 +9,7 @@
                :collapse-transition="false"
                :collapse="isCollapse"
       >
+
         <div style="height: 60px;line-height: 60px;text-align: center">
           <img src="../assets/mylogo.jpg" alt="logo"style="width: 45px;position:relative;top: 5px;margin-right: 5px">
           <b style="color: aliceblue" v-show="logoTextShow">后台管理系统</b>
