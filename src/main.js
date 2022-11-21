@@ -5,6 +5,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 import router from './router'
 import store from './store'
 import './assets/global.css'
+import option from "element-ui/packages/option";
 
 Vue.config.productionTip = false
 Vue.use(ElementUI);
